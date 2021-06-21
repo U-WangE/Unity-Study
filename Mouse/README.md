@@ -1,5 +1,5 @@
 
-# Unity LifeCycle
+# Unity MouseClick
 
 Unity MouseClick Event
 -> Unity에서 MouseClick Event를 인식하는 Input의 종류에 대한 설명이다.
