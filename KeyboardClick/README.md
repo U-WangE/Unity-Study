@@ -20,4 +20,6 @@ Input.GetKeyUp
 Input.GetButton
 Input.GetButtonDown
 Input.GetButtonUp
+Input.GetAxis
+Input.GetAxisRaw
 ```
