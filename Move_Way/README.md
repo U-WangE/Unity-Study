@@ -1,5 +1,5 @@
 
-# Unity Move_Object
+# Unity Move_Way
 
 Unity Move_Way
 -> Unity에서 Object의 4가지 이동 방식에 대한 설명이다.
