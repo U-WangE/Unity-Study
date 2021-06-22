@@ -1,6 +1,6 @@
 /*
 해당 코드 youtube 출처
-https://www.youtube.com/watch?v=wqRwsW03JR4
+https://www.youtube.com/watch?v=gnO1GVRuKxk
 */
 
 using System.Collections;
