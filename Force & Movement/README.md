@@ -16,7 +16,7 @@ AddForce의 해당 방향으로의 힘을 주는 방법과 키보드 입력에 �
 // AddForce
 AddForce
 ```
-AddTorque으ㅢ 회전에 관한 설명
+AddTorque의 회전에 관한 설명
 ```javascript
 // AddTorque
 AddTorque
